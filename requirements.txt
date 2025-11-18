@@ -6,6 +6,6 @@ matplotlib
 seaborn
 scikit-learn
 mlxtend
-network
+networkx
 xgboost
 scipy
